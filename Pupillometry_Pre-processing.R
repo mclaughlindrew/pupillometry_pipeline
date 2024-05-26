@@ -1,4 +1,4 @@
-# R Session 3: Data Pre-processing
+# Pupillometry Data Pre-processing
 # May 15, 2024
 # 
 # Author:   Drew J McLaughlin; drewjmclaughlin@gmail.com
