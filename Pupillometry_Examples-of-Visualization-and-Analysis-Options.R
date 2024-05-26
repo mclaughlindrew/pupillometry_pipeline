@@ -1,4 +1,4 @@
-# R Session 4: Data Visualization and Analysis Options
+# Pupillometry Examples of Data Visualization and Analysis Options
 # May 15, 2024
 # 
 # Author:   Drew J McLaughlin; drewjmclaughlin@gmail.com
