@@ -1,4 +1,4 @@
-# Pupillometry Examples of Data Visualization and Analysis Options
+# Pupillometry Data Visualization and Analysis Options and Examples
 # May 15, 2024
 # 
 # Author:   Drew J McLaughlin; drewjmclaughlin@gmail.com
