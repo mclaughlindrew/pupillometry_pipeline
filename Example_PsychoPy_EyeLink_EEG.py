@@ -4,7 +4,8 @@
 # Author:   Drew J. McLaughlin
 #
 # Notes:
-#   1) See "Walkthrough_Building EyeLink-Compatible PsychoPy Experiments.docx"
+#   1) See "Walkthrough_Building EyeLink-and-EEG-Compatible PsychoPy Experiments.docx" and other materials in: 
+#      https://drive.google.com/drive/folders/1JI_4mXyyRKmDZk7Ca1-e8hLKNzxxdnyI?usp=drive_link
 
 ### Load packages ###
 
