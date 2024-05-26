@@ -1,4 +1,4 @@
-# R Session 2: ASC Data Compiler
+# Pupillometry ASC Data Compiler
 # April 15, 2024
 #
 # Author:   Drew J. McLaughlin; drewjmclaughlin@gmail.com
